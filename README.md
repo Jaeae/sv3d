@@ -4,6 +4,7 @@ This repository is for environment setup and inference of the paper "SV3D: Novel
 
 ## result
 https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000000.mp4
+
 https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000001.mp4
 
 ## setup
