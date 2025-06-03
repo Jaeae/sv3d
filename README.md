@@ -3,9 +3,10 @@
 This repository is for environment setup and inference of the paper "SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion."
 
 ## result
-https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000000.mp4
 
-https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000001.mp4
+[https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000000.mp4](https://github.com/user-attachments/assets/6934012c-2e0b-459a-b83c-46a7badc68c5)
+
+[https://github.com/Jaeae/sv3d/blob/main/outputs/simple_video_sample/sv3d_p/000001.mp4](https://github.com/user-attachments/assets/c04a93e7-81f8-4f13-bdf0-0d5ea8c7ed5a)
 
 ## setup
 Our default, provided install method is based on Conda package and environment management:
